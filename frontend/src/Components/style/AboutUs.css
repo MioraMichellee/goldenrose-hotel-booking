@@ -1,0 +1,24 @@
+.banner-aboutus{
+   
+    background-image: url('https://img.freepik.com/photos-gratuite/full-shot-homme-transportant-bagages_23-2149963942.jpg?t=st=1713208923~exp=1713212523~hmac=176b7f4697b5e6714056f171a3f0347648d345b910c99da9d2f3d267e0bbb472&w=740');
+    margin-top: 80px;
+   
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 50vh;
+}
+.banner-aboutus-info{
+padding: 129px;
+background-color: rgba(0, 0, 0, 0.419);
+height: 18vh;
+}
+.banner-aboutus-info > p{
+text-align: center;
+color: white;
+}
+.banner-aboutus-info > h1{
+text-align: center;
+color: #fbf4ec;
+font-family: 'Bentham', serif;
+font-size: 50px;
+}

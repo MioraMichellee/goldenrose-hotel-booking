@@ -1,0 +1,22 @@
+.banner-thankyou{
+   
+        background-image: url('https://img.freepik.com/photos-gratuite/personne-retraitee-s-approchant-reception_482257-76472.jpg?t=st=1713000226~exp=1713003826~hmac=ad0786d031d0ebaa197e3d74bd9995a313c30838d0213b415764f0fa7d0b300c&w=900');
+        margin-top: 80px;
+       
+        background-repeat: no-repeat;
+        background-size: 100%;
+    }
+.filter{
+    padding: 191px;
+    background-color: rgba(0, 0, 0, 0.419);
+}
+.filter > p{
+    text-align: center;
+    color: white;
+}
+.filter > h1{
+    text-align: center;
+    color: #fbf4ec;
+    font-family: 'Bentham', serif;
+    font-size: 50px;
+}

@@ -1,0 +1,76 @@
+.banner{
+    /* Background: url('https://img.freepik.com/photos-gratuite/chambre-moderne-confortable-tete-lit-bois-elegante-generee-par-ai_24640-87460.jpg?w=826&t=st=1711366735~exp=1711367335~hmac=5a9dddb64a3faf3526a822705f22dec58d3167241dca3935b7906245908c65b7') center center; */
+    /* background: url('https://img.freepik.com/photos-gratuite/interieur-chambre-chambre-hotel_23-2150683419.jpg?w=740&t=st=1711366855~exp=1711367455~hmac=17676a27a17fd15641b965b0101df82f3a96a1fe54dcaa29b527b2b4be203762') center center; */
+    background-image: url("./images/one-bed.jpg");
+    height: 90vh;
+    position: relative;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.banner_info{
+    background-color: rgba(0, 0, 0, 0.549);
+    color: #fbf4ec;
+    margin-top: 6.5vh;
+  padding: 27vh;
+}
+
+.banner_search{
+    display: flex;
+    flex-direction: column;
+}
+
+/* .banner_searchButton> button{
+    background-color: !important;
+    font-weight: 900 !important;
+    text-transform: inherit !important;
+    color: #ac855a !important
+} */
+/* .banner_info> Button:hover{
+    
+    background-color: #4a2d09;
+    border: 1px solid #4a2d09;
+  color: #fdfbfb;
+  font-size: 15px;
+   
+} */
+
+.banner_info > button {
+    
+    background-color: #8a5b25 ;
+    border: 1px solid #8a5b25 ;
+    color: white;
+    margin-top:25px; 
+    font-weight: normal;
+    display: block;
+    margin: auto;
+    font-size: 15px;
+}
+
+.btn{
+    color:black;
+}
+
+.banner_info > button:hover{
+    background-color: #4a2d09;
+    border: 1px solid #4a2d09;
+  color: #fdfbfb;
+  font-size: 15px;
+}
+
+.banner_info > h5{
+   
+    margin-top: 10px;
+  margin-bottom: 25px;
+  text-align: center;
+  font-weight: normal;
+  font-size: 16px;
+}
+
+.banner_info > h1{
+    margin-top: 40px;
+    margin-bottom: 25px;
+    text-align: center;
+    font-family: 'Bentham', serif;
+    font-size: 50px;
+}

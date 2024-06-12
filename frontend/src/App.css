@@ -1,0 +1,25 @@
+*{
+  margin: 0;
+}
+.App {
+  text-align: center;
+}
+
+.Information {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 50px;
+}
+
+.Information input{
+  width: 250px;
+  height: 30px;
+  padding-left: 10px;
+  font-size: 15px;
+}
+
+.Information button{
+  margin-top: 10px;
+}
